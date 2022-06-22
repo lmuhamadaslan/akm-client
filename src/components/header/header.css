@@ -1,0 +1,9 @@
+/* create background header blue */
+.header {
+  background-color: #003366;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  height: 200px;
+  position: relative;
+}

@@ -1,0 +1,38 @@
+.card-token {
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  padding: 20px;
+  margin-bottom: 20px;
+  position: relative;
+  top: 60px;
+}
+
+/* .card-token-title {
+  font-size: 16px;
+  font-weight: 500;
+  color: #212529;
+  margin-bottom: 50px;
+} */
+
+.card-data {
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  padding: 20px;
+  margin-bottom: 20px;
+  position: relative;
+  top: 60px;
+  background-color: #fff;
+}
+
+.card-data-title {
+  font-size: 16px;
+  font-weight: 500;
+  color: #212529;
+  margin-bottom: 50px;
+}
+
+.form-group {
+  margin-bottom: 3rem;
+}
