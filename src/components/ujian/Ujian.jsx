@@ -136,12 +136,12 @@ function Ujian() {
               <Timer hoursMinSecs={hoursMinSecs} />
               <Offline>
                 <div className="alert alert-danger " role="alert">
-                  <strong>Offline!</strong>
+                  <strong>Anda Offline!</strong>
                 </div>
               </Offline>
               <Online>
                 <div className="alert alert-success" role="alert">
-                  <strong>Online!</strong>
+                  <strong>Anda Online!</strong>
                 </div>
               </Online>
             </div>
